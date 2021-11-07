@@ -1033,8 +1033,8 @@ ul {
   width: 24px;
   height: 24px;
 
-  right: 20px;
-  transform: translate(-50%);
+  right: 28px;
+  bottom: 0;
 
   fill: var(--hero-address-color);
 }
